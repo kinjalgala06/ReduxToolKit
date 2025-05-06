@@ -1,4 +1,4 @@
-<b>using react + typescript</b>
+<b>using react + typescript</b> also using material ui
 
 1) create store:: store.ts
 ```
